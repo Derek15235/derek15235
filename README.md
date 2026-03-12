@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/derek15235"><img src="https://img.shields.io/badge/GitHub-derek15235-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/derekjain/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:derek@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/derek-jain/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:derekdjain@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### 👾 &nbsp;About Me
@@ -66,5 +66,3 @@
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=derek15235&style=plastic&label=Views"><img>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0077B5&height=120&section=footer" />
