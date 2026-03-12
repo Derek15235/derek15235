@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Derek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0077B5&height=180&section=header&text=Hi%20there,%20I'm%20Derek&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 
 <p align="center">
   <a href="https://github.com/derek15235"><img src="https://img.shields.io/badge/GitHub-derek15235-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -6,21 +6,19 @@
   <a href="mailto:derek@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<hr/>
+### 👾 &nbsp;About Me
 
-### :space_invader: &nbsp;About Me
+&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Student developer passionate about building real-world software.\
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Currently exploring AI/ML, iOS development, and full-stack web apps.\
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate about problem solving and creating tools that make life easier.\
+&nbsp;&nbsp;&nbsp;🛠️ &nbsp;Building projects like [ClearPath](https://github.com/derek15235/ClearPath) (AI Compliance MVP) and [Task-Alarm](https://github.com/derek15235/Task-Alarm) (iOS app).\
+&nbsp;&nbsp;&nbsp;✍️ &nbsp;Always learning — from Python scripting to Swift apps to TypeScript web development.\
+&nbsp;&nbsp;&nbsp;🎯 &nbsp;Fun projects include a [Set card game solver](https://github.com/derek15235/Set-solver) and a [student-teacher scheduling tool](https://github.com/derek15235/Menlo-Office-Hours).
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Student developer passionate about building real-world software.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Currently exploring AI/ML, iOS development, and full-stack web apps.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving and creating tools that make life easier.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Building projects like [ClearPath](https://github.com/derek15235/ClearPath) (AI Compliance MVP) and [Task-Alarm](https://github.com/derek15235/Task-Alarm) (iOS app).\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Always learning — from Python scripting to Swift apps to TypeScript web development.\
-&nbsp;&nbsp;&nbsp;:dart: &nbsp;Fun projects include a [Set card game solver](https://github.com/derek15235/Set-solver) and a [student-teacher scheduling tool](https://github.com/derek15235/Menlo-Office-Hours).
-
-<hr/>
+---
 
 <details>
-  <summary><b>:computer: &nbsp;Main Tech Knowledge</b></summary>
+  <summary><b>💻 &nbsp;Main Tech Knowledge</b></summary>
   <br/>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
@@ -40,7 +38,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Other Knowledge, Always Learning</b></summary>
+  <summary><b>🧠 &nbsp;Always Trying to Learn More</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -55,7 +53,7 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>⚙️ &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=derek15235&hide_border=true&theme=nightowl" />
@@ -65,8 +63,8 @@
     </p>
 </details>
 
-<hr/>
-
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=derek15235&style=plastic&label=Views"><img>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0077B5&height=120&section=footer" />
